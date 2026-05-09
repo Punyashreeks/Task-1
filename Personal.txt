@@ -10,3 +10,5 @@ Branch: CSE
 Year: 1st Year
 
 College: Amity University
+
+City: Doddaballapur
