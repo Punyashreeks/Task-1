@@ -13,4 +13,6 @@ College: Amity University
 
 City: Doddaballapur
 
-Skills: Python, Git
+Skills : Python, Git
+
+Hobby : coding 
