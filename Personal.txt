@@ -15,4 +15,6 @@ City: Doddaballapur
 
 Skills : Python, Git
 
-Hobby : coding 
+Hobby : coding
+
+Goal : Software Engineer
