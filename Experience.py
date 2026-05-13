@@ -8,3 +8,6 @@ print("Faculty members are supportive")
 print("Labs improved my practical skills")
 
 print("Programming confidence increased")
+
+print("I learned python")
+
