@@ -20,3 +20,5 @@ Hobby : coding
 Goal : Software Engineer
 
 Favorite Subject: Python
+
+Dream company : google
