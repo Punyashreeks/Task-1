@@ -18,3 +18,5 @@ Skills : Python, Git
 Hobby : coding
 
 Goal : Software Engineer
+
+Favorite Subject: Python
